@@ -1,5 +1,5 @@
-theme: hona
+theme: "hugo-academic"
 languageCode: en-us
 title: Hugo on Azure Demo
-baseURL: http://hugo-on.azurewebsites.net
+baseURL: http://shivam.azurewebsites.net
 MetaDataFormat: YAML
